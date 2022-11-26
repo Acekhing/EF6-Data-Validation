@@ -25,3 +25,14 @@ E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\obj\Debug\net6.0\refi
 E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.pdb
 E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.genruntimeconfig.cache
 E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\obj\Debug\net6.0\ref\EF6DataValidation.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
