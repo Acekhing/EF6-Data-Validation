@@ -21,20 +21,27 @@ namespace EF6DataValidation.Controllers
         public async Task<ActionResult> AddPhone([FromBody] Phone phone)
         {
             await _context.Insert(phone);
-            return CreatedAtAction(nameof(GetPhone), new {id = phone.Id}, new { });
+            return CreatedAtAction(nameof(GetPhone), new { id = phone.Id }, new { });
         }
 
         [HttpGet]
-        [Route("id")]
-        public async Task<ActionResult> GetPhone([FromRoute]Guid id)
+        [Route("{id}")]
+        public async Task<ActionResult> GetPhone([FromRoute] Guid id)
         {
             var existingPhone = await _context.Get(id);
-            if(existingPhone != null)
+            if (existingPhone != null)
             {
                 return Ok(existingPhone);
             }
+            return NotFound();
+        }
 
-                return NotFound();
+        [HttpPut]
+        [Route("")]
+        public async Task<ActionResult> UpdatePhone([FromBody] Phone phone)
+        {
+            await _context.Update(phone);
+            return Accepted();
         }
     }
 }
