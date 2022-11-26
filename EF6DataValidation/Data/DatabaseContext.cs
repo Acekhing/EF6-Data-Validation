@@ -9,14 +9,14 @@ namespace EF6DataValidation.Data
         {
         }
 
-        readonly DbSet<Phone> Phones;
+        DbSet<Phone> Phones { get; set; }
 
         public async Task Insert(Phone phone)
         {
             await Phones.AddAsync(phone);
             await SaveChangesAsync();
         }
-        public async Task<Phone?> Get(Guid id)
+        public async Task<Phone?> Get(int id)
         {
             return await Phones.FindAsync(id);
         }
