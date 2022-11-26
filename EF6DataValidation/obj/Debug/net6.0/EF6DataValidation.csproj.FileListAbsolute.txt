@@ -36,3 +36,41 @@ E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Micr
 E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 E:\Visual Studio\Repos\EF6DataValidation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\appsettings.json
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\EF6DataValidation.exe
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\EF6DataValidation.deps.json
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\EF6DataValidation.runtimeconfig.json
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\EF6DataValidation.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\EF6DataValidation.pdb
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.csproj.AssemblyReference.cache
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.AssemblyInfoInputs.cache
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.AssemblyInfo.cs
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.csproj.CoreCompileInputs.cache
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\scopedcss\bundle\EF6DataValidation.styles.css
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.csproj.CopyComplete
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\refint\EF6DataValidation.dll
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.pdb
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\EF6DataValidation.genruntimeconfig.cache
+C:\Users\Acekhing\Source\Repos\EF6-Data-Validation\EF6DataValidation\obj\Debug\net6.0\ref\EF6DataValidation.dll

@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio\\Repos\\EF6DataValidation\\EF6DataValidation\\EF6DataValidation.csproj",
+      "projectUniqueName": "C:\\Users\\Acekhing\\Source\\Repos\\EF6-Data-Validation\\EF6DataValidation\\EF6DataValidation.csproj",
       "projectName": "EF6DataValidation",
-      "projectPath": "E:\\Visual Studio\\Repos\\EF6DataValidation\\EF6DataValidation\\EF6DataValidation.csproj",
+      "projectPath": "C:\\Users\\Acekhing\\Source\\Repos\\EF6-Data-Validation\\EF6DataValidation\\EF6DataValidation.csproj",
       "packagesPath": "C:\\Users\\Acekhing\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio\\Repos\\EF6DataValidation\\EF6DataValidation\\obj\\",
+      "outputPath": "C:\\Users\\Acekhing\\Source\\Repos\\EF6-Data-Validation\\EF6DataValidation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acekhing\\AppData\\Roaming\\NuGet\\NuGet.Config",
