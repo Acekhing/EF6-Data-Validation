@@ -26,7 +26,7 @@ namespace EF6DataValidation.Controllers
 
         [HttpGet]
         [Route("{id}")]
-        public async Task<ActionResult> GetPhone([FromRoute] Guid id)
+        public async Task<ActionResult> GetPhone([FromRoute] int id)
         {
             var existingPhone = await _context.Get(id);
             if (existingPhone != null)
