@@ -1,6 +1,9 @@
 # EF6-Data-Validation
 In depth tutorial on data validation with EF 6
 
+## About Project
+This porject will be about a Cheap Phone Listing platform where everybody can list thier phone for others to buy. This project focuses on the phone listing module because we need to make sure phones listed meet the core idea of the business entity and also to make sure the platform work as expected.
+
 # What we will Cover
 In the context of this tutorial we will have a look at how to implement data validation using Entity framework 6 (EF 6). 
 For the purpose of this tutorial, I would love to build with you a simple Cheap Phone listing platform and the technologies will be:
