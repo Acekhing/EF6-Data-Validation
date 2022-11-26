@@ -2,7 +2,7 @@
 In depth tutorial on data validation with EF 6
 
 # What we will Cover
-In the context of this tutorial we will have a look at how to implement data validation using Entity framework core 6 (EF 6). 
+In the context of this tutorial we will have a look at how to implement data validation using Entity framework 6 (EF 6). 
 For the purpose of this tutorial, I would love to build with you a simple Cheap Phone listing platform and the technologies will be:
 
 ## 1. Asp.Net 6 Web API
